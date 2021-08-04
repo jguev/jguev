@@ -2,7 +2,7 @@
 
 I design and program innovative solutions, incorporating dynamic and interactive experiences.
 
-- 🌱 Web Dev: I am learning [React](https://reactjs.org) and embedding [p5.js](https://p5js.org)
+- 🌱 Web Dev: I am incorporating [p5.js](https://p5js.org) and [rellax.js](https://dixonandmoe.com/rellax)
 
 - 📱 Mobile Dev: I am building an iOS application, [learnDari](https://github.com/sand-bar-io/learnDari), with Swift and UIKit
 
