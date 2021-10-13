@@ -4,6 +4,6 @@ I design and program innovative solutions, incorporating dynamic and interactive
 
 - 🌱 Web Dev: I am incorporating [p5.js](https://p5js.org) and [rellax.js](https://dixonandmoe.com/rellax)
 
-- 📱 Mobile Dev: I am building an iOS application, [learnDari](https://github.com/sand-bar-io/learnDari), with SwiftUI
+- 📱 Mobile Dev: I am building a cross platform application with React Native
 
 - 💬 Technical Writing: I am documenting some of my work within [Medium](https://boolxr.medium.com) 
